@@ -1,0 +1,66 @@
+From 843d70f95d03dd053c9aa2a6ec3013229754b054 Mon Sep 17 00:00:00 2001
+From: lizuncong <2900170896@qq.com>
+Date: Mon, 17 Jan 2022 16:41:34 +0800
+Subject: [PATCH] feat: test
+
+---
+ a.html    | 2 +-
+ b.html    | 2 +-
+ c.html    | 2 +-
+ readme.md | 2 +-
+ 4 files changed, 4 insertions(+), 4 deletions(-)
+
+diff --git a/a.html b/a.html
+index 57e9436..541cde8 100644
+--- a/a.html
++++ b/a.html
+@@ -12,7 +12,7 @@
+ </head>
+ <body>
+ <div>
+-    <a id="a-test" href="https://www.baidu.com">A Page</a>
++    <a id="a-test" href="https://www.baidu.com">hello A Page</a>
+ </div>
+ </body>
+ </html>
+\ No newline at end of file
+diff --git a/b.html b/b.html
+index a86e0e5..b314ba5 100644
+--- a/b.html
++++ b/b.html
+@@ -12,7 +12,7 @@
+ </head>
+ <body>
+ <div>
+-    <a id="a-test" href="https://www.baidu.com">B Page</a>
++    <a id="a-test" href="https://www.baidu.com">hello B Page</a>
+ </div>
+ </body>
+ </html>
+\ No newline at end of file
+diff --git a/c.html b/c.html
+index dfdecaf..c6ec72a 100644
+--- a/c.html
++++ b/c.html
+@@ -12,7 +12,7 @@
+ </head>
+ <body>
+ <div>
+-    <a id="a-test" href="https://www.baidu.com">C Page</a>
++    <a id="a-test" href="https://www.baidu.com">hello C Page</a>
+ </div>
+ </body>
+ </html>
+\ No newline at end of file
+diff --git a/readme.md b/readme.md
+index afcc2df..55b28cd 100644
+--- a/readme.md
++++ b/readme.md
+@@ -1 +1 @@
+-本仓库用于git用法摸索
+\ No newline at end of file
++本仓库用于git用法测试
+\ No newline at end of file
+-- 
+2.30.1 (Apple Git-130)
+
